@@ -33,3 +33,4 @@ Inside the project folder:
 ```bash
 docker build -t postureapp .
  
+
