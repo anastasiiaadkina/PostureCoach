@@ -9,8 +9,8 @@ It helps build healthy sitting habits and reduces strain on the back during work
 
 | Main Screen | Good Posture | Bad Posture |
 |------------|------------|-----------|
-| ![main](screenshots/good.png) | ![bad](bad.png) | ![bad](screenshots/bad1.png) |
-| ![bad_2](screenshots/bad2.png) | ![bad_3](screenshots/bad3.png) | |
+| ![good](good.png) | ![bad](bad.png) | ![bad](bad2.png) |
+| ![bad](bad1.png) | 
 
 ---
 
